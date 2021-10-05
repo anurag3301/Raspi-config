@@ -7,4 +7,8 @@ ZSH_THEME="robbyrussell"
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
+alias c="clear"
+alias q="exit"
+alias vrc="vim ~/.vimrc"
+alias zrc="vim ~/.zshrc"
 
